@@ -1,0 +1,12 @@
+footer {
+	position: fixed;
+	bottom: 0;
+	min-height: 2rem;
+	min-width: 100%;
+	background-color: indianred;
+	color: white;
+	font-size: medium;
+	display: flex;
+	padding: 5px;
+	justify-content: center;
+}
